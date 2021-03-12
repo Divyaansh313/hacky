@@ -1,13 +1,4 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: "[BUG]"
-labels: ''
-assignees: ''
-
----
-
----
 name: Bug
 about: To report a bug found in the project's working.
 title: ''
