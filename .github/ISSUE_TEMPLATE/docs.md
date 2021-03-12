@@ -1,14 +1,5 @@
 ---
 name: Docs
-about: A typo or to improve documentation? Use this
-title: ''
-labels: ''
-assignees: ''
-
----
-
----
-name: Docs
 about: Found a typo in docs? You can use this one!
 title: ''
 labels: '🚦 status: awaiting triage'
