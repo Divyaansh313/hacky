@@ -8,18 +8,16 @@ else:
     import config
 
 # Here we name the cog and create a new class for the cog.
-class Template(commands.Cog, name="template"):
+class Template(commands.Cog, name="debug"):
     def __init__(self, bot):
         self.bot = bot
 
-    # Here you can just add your own commands, you'll always need to provide "self" as first parameter.
-    @commands.command(name="testcommand")
+    @commands.command(name="debug")
     async def testcommand(self, context):
-        # Do your stuff here
-
+        # yet to complete
         # Don't forget to remove "pass", that's just because there's no content in the method.
         pass
 
 # And then we finally add the cog to the bot so that it can load, unload, reload and use it's content.
 def setup(bot):
-    bot.add_cog(Template(bot))
+    bot.add_cog(debug(bot))
