@@ -1,0 +1,17 @@
+# Add awaiting review label to all PRs-
+# awaiting_review:
+# - any: ['./*', 'Bot/*']
+# Add documentation label-
+awaiting review:
+  - ./*
+  - Bot/*
+  - Bot/cogs/*
+  - .github/*/*
+
+documentation: 
+  - README.md
+  - CODE_OF_CONDUCT.md
+  - LICENSE
+  - .github/ISSUE_TEMPLATE/*
+enhancement:
+  - bot/cogs/*.py
