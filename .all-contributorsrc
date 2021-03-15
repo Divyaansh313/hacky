@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "SamDev98",
+      "name": "SamDev98",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35175764?v=4",
+      "profile": "http://www.linkedin.com/in/sambhavrakhe",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "hacky",
+  "projectOwner": "kcoder63",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
