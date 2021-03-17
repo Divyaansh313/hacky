@@ -22,15 +22,15 @@ intents.emojis = True
 intents.bans = True
 intents.guild_typing = False
 intents.typing = False
-intents.dm_messages = False
-intents.dm_reactions = False
+intents.dm_messages = True
+intents.dm_reactions = True
 intents.dm_typing = False
 intents.guild_messages = True
 intents.guild_reactions = True
 intents.integrations = True
 intents.invites = True
 intents.voice_states = False
-intents.webhooks = False
+intents.webhooks = True
 
 Privileged Intents (Needs to be enabled on dev page):
 intents.presences = True
