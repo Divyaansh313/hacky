@@ -7,7 +7,9 @@
 
 - Pings members of the server whenever a new Hackathon or event is announced
 
-- helps you to tick off your to-dos
+- gives updates about competitive programming contests from codeforces, leetcode , hacker earth etc
+
+- helps ypu create reaction roles
 
 - encourages you when you feel down
 
