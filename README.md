@@ -7,15 +7,14 @@
 
 - Pings members of the server whenever a new Hackathon or event is announced
 
-- gives updates about competitive programming contests from codeforces, leetcode , hacker earth etc
-
 - helps ypu create reaction roles
 
 - encourages you when you feel down
 
 - Help showing a list of available commands
 
-- Server status
+- creates a poll
+
 
 ## Contributors ✨
 
