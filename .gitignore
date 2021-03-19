@@ -1,0 +1,7 @@
+# Configuration files, database and CSVs
+*.ini
+*.csv
+*.db
+
+#pycache
+__pycache__/
