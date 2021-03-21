@@ -3,7 +3,7 @@ name: Bug
 about: To report a bug found in the project's working.
 title: ''
 labels: '🚦 status: awaiting triage'
-assignees: 'kcoder63'
+assignees: 
 
 ---
 
