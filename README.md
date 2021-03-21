@@ -1,4 +1,4 @@
-# hacky - A discord bot to notify the server members about upcoming hackathons and events
+# Hacky - A discord bot to notify the server members about upcoming hackathons and events
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -7,13 +7,13 @@
 
 - Pings members of the server whenever a new Hackathon or event is announced
 
-- helps ypu create reaction roles
+- Helps you create reaction roles
 
-- encourages you when you feel down
+- Encourages you when you feel down
 
-- Help showing a list of available commands
+- Helps in showing a list of available commands
 
-- creates a poll
+- Creates a poll
 
 
 ## Contributors ✨
