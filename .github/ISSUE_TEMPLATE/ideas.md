@@ -3,7 +3,7 @@ name: Ideas
 about: Have a new idea/feature for the project?
 title: ''
 labels: '🚦 status: awaiting triage'
-assignees: 'kcoder63'
+assignees: ''
 
 ---
 
